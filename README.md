@@ -43,7 +43,7 @@ goCamp is a full-stack web application inspired by Yelp. It allows users to disc
 ### 1. Clone the Repository
 
 ``` bash
-git clone https://github.com/yourusername/goCamp.git
+git clone https://github.com/NikhilMali77/goCamp---An-Online-Camp-finder.git
 cd goCamp
 ```
 
